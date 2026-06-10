@@ -8,14 +8,14 @@ I am an incoming IT freshman and an aspiring Network Engineer. Instead of just w
 
 | Category | Technologies / Tools |
 | :--- | :--- |
-| **Programming Logic** | C++ (Currently mastering fundamentals) |
+| **Programming Logic** | C++, Python (Currently mastering fundamentals) |
 | **Operating Systems** | Linux CLI (Learning terminal commands & environment) |
 | **Networking Tools** | Cisco Packet Tracer (Practicing basic topologies) |
 
 ---
 
 ## 🎯 What I am Actively Practicing Right Now
-* 💻 Finishing comprehensive programming tutorials to master **C++** syntax and logic.
+* 💻 Finishing comprehensive programming tutorials to master **C++** and **Python** syntax and logic.
 * 🐧 Navigating and managing systems strictly through the **Linux Terminal**.
 * 🌐 Getting hands-on experience by building virtual networks and understanding data flow.
 
