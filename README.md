@@ -9,7 +9,7 @@ I am an IT freshman and an aspiring Network Engineer. Instead of just waiting fo
 | Category | Technologies / Tools |
 | :--- | :--- |
 | **Programming Logic** | C++, Python, HTML, CSS, JS, JAVA (Currently mastering fundamentals) |
-| **Operating Systems** | Linux CLI (Learning terminal commands & environment) |
+| **Operating Systems** | Linux CLI, bash (Learning terminal commands & environment) |
 | **Networking Tools** | Cisco Packet Tracer (Practicing basic topologies) |
 
 ---
