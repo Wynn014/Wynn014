@@ -16,10 +16,13 @@ I am an IT freshman and an aspiring Network Automation Engineer. Instead of just
 ---
 
 ## 🎯 What I am Actively Practicing Right Now
-* 💻 Finishing comprehensive programming tutorials to master **C++** and **Python** of its syntax and logic.
+* 💻 **Programming Logic & Practical Projects:** Actively developing and experimenting with custom projects in **Python and C++** to master core programming logic, data structures, and automation fundamentals.
 * 🐧 Navigating and managing systems strictly through the **Linux Terminal**.
 * 🌐 Getting hands-on experience by building virtual networks and understanding data flow.
 * 🕸️ Learning Web development using **HTML, CSS, Javascript**.
+* 📱 **Mobile-to-PC Remote Systems Lab:** Transforming a mobile device into a portable command center by configuring secure SSH sessions with Windows OpenSSH and Termux, allowing for real-time remote execution, WSL (Ubuntu) navigation, and system management.
+* 🛜**Network Diagnostics & Packet Flow:** Actively verifying local subnets, testing gateway latencies via ICMP ping, analyzing active TCP ports with `netstat`, and mapping out local network communication paths.
+* 📶**Network Infrastructure Modeling:** Building and testing fundamental routing layouts and topologies using Cisco Packet Tracer.
 
 ---
 
