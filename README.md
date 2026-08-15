@@ -10,7 +10,8 @@ I am an IT freshman and an aspiring Network Engineer. Instead of just waiting fo
 | :--- | :--- |
 | **Programming Logic** | C++, Python, HTML, CSS, JS, Javascript (Currently mastering fundamentals) |
 | **Operating Systems** | Linux CLI, bash (Learning terminal commands & environment) |
-| **Networking Tools** | Cisco Packet Tracer (Practicing basic topologies) |
+| **Networking Tools** | Cisco Packet Tracer(Basic Topologies), Linux CLI, Bash, Windows OpenSSH, WSL, Termux (Mobile Development) |
+| **Networking Stack** | TCP/IP, Local Subnetting, SSH Remote Management |
 | **Cloud** | AWS Amplify, Git, Versel |
 ---
 
