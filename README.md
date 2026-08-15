@@ -29,5 +29,3 @@ I am an IT freshman and an aspiring Network Automation Engineer. Instead of just
 - [ ] **Phase 2: Advanced Networking & Scripting** — Deep dive into network protocols, routing/switching, and Python network automation libraries (Netmiko, Paramiko).
 - [ ] **Phase 3: Cloud & Infrastructure-as-Code** — AWS certifications, Terraform, and cloud architecture design.
 - [ ] **Phase 4: Enterprise Architecture** — Large-scale multi-cloud and global network planning.
-
-**Thank you for visiting my profile!!**
