@@ -1,6 +1,6 @@
 # Hi, I'm Wynn 👋
 
-I am an IT freshman and an aspiring Network Engineer. Instead of just waiting for college classes to start, I am actively using my free time to build a solid foundation in programming logic, system environments, and core networking concepts.
+I am an IT freshman and an aspiring Network Automation Engineer. Instead of just waiting for college classes to start, I am actively using my free time to build a solid foundation in programming logic, system environments, and core networking concepts.
 
 ---
 
@@ -12,7 +12,7 @@ I am an IT freshman and an aspiring Network Engineer. Instead of just waiting fo
 | **Operating Systems** | Linux CLI, bash (Learning terminal commands & environment) |
 | **Networking Tools** | Cisco Packet Tracer(Basic Topologies), Linux CLI, Bash, Windows OpenSSH, WSL, Termux (Mobile Development) |
 | **Networking Stack** | TCP/IP, Local Subnetting, SSH Remote Management, Network Diagnostics |
-| **Cloud** | AWS Amplify, Git, Versel |
+| **Cloud** | AWS Amplify, Git, Versel | Version Control & Deployment |
 ---
 
 ## 🎯 What I am Actively Practicing Right Now
@@ -23,7 +23,11 @@ I am an IT freshman and an aspiring Network Engineer. Instead of just waiting fo
 
 ---
 
-## 📂 My Repositories
-* 🖥️ **Learning-Journey:** A place where I keep my early scripts, notes, and practical exercises as I learn to code.
+## 📈 Long-Term Learning Goals
+
+- [x] **Phase 1: Local Environment & Terminals** — Mastered Linux CLI, basic bash scripting, and SSH remote access.
+- [ ] **Phase 2: Advanced Networking & Scripting** — Deep dive into network protocols, routing/switching, and Python network automation libraries (Netmiko, Paramiko).
+- [ ] **Phase 3: Cloud & Infrastructure-as-Code** — AWS certifications, Terraform, and cloud architecture design.
+- [ ] **Phase 4: Enterprise Architecture** — Large-scale multi-cloud and global network planning.
 
 **Thank you for visiting my profile!!**
