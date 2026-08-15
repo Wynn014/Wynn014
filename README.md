@@ -28,7 +28,7 @@ I am an IT freshman and an aspiring Network Automation Engineer. Instead of just
 
 ## 📈 Long-Term Learning Goals
 
-- [x] **Phase 1: Local Environment & Terminals** — Mastered Linux CLI, basic bash scripting, and SSH remote access.
+- [x] **Phase 1: Local Environment & Terminals** — Master Linux CLI, basic bash scripting, and SSH remote access.
 - [ ] **Phase 2: Advanced Networking & Scripting** — Deep dive into network protocols, routing/switching, and Python network automation libraries (Netmiko, Paramiko).
 - [ ] **Phase 3: Cloud & Infrastructure-as-Code** — AWS certifications, Terraform, and cloud architecture design.
 - [ ] **Phase 4: Enterprise Architecture** — Large-scale multi-cloud and global network planning.
